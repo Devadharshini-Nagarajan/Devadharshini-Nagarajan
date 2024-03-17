@@ -1,4 +1,4 @@
-# Hi!👋 I'm Deva! 
+# Hi! 👋 I'm Deva! 
 
 ## Software Engineer | Full Stack Developer
 
@@ -54,7 +54,7 @@ Welcome to my GitHub profile! I'm Deva, a passionate Software Engineer and Full 
 
 As a software engineer, I am constantly striving for growth and improvement. Here are some of my current goals:
 
-- **Frontend Performance and Server-Side Rendering (SSR)**: 🚀🌐 I aim to deepen my understanding of frontend performance optimization techniques, including server-side rendering (SSR), to create faster, more responsive web applications. By mastering SSR techniques, I seek to improve the initial load time and SEO performance of web applications, resulting in enhanced user experiences and search engine visibility.
+- **Frontend Performance and Server-Side Rendering (SSR)**: 🚀🌐 I aim to deepen my understanding of frontend performance optimization techniques, including server-side rendering (SSR), to create faster, more responsive web applications.
 
 - **Backend Expertise**: 💻 I am eager to expand my experience in backend development, particularly in areas such as API design, microservices architecture, and server-side performance optimization.
 
