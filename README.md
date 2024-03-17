@@ -2,8 +2,9 @@
 
 ## Software Engineer | Full Stack Developer
 
-Welcome to my GitHub profile! I'm Deva, a passionate Software Engineer and Full Stack Developer based in Toronto, Canada. I specialize in front-end development, with a primary focus on crafting clean user interfaces and robust, high-performance backend services.
+Welcome to my GitHub profile! With specialized expertise in crafting dynamic and intuitive user interfaces, coupled with proficiency as a full stack developer, I am committed to delivering impactful and user-centric software solutions.
 
+<!--  I'm Deva, a passionate Software Engineer and Full Stack Developer based in Toronto, Canada. -->
 ---
 
 ## About Me
