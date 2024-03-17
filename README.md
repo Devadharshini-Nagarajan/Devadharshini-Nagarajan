@@ -66,6 +66,19 @@ As a software engineer, I am constantly striving for growth and improvement. Her
 By setting and pursuing these goals, I aim to become a more well-rounded and proficient software engineer, capable of delivering high-quality solutions that meet the needs of both users and stakeholders.
 
 ---
+## Projects!
+- Covid 19 Tracker - https://webofdeva-covid19tracker.netlify.app
+- Credit Card - https://webofdeva-creditcard.netlify.app
+- Amazon Clone - https://webofdeva-amazon.netlify.app
+- Disney Clone - https://webofdeva-disney.netlify.app
+- Forms - https://webofdeva-fleetoperate.netlify.app
+- Food Blog - https://webofdeva-foodblog.netlify.app/#/type/all
+- Quiz - https://webofdeva-quiz.netlify.app
+- Todo - https://webofdeva-todo-vue.netlify.app
+- Tic Tac Toe - https://webofdeva-tictactoe.netlify.app
+- Burger App - https://webofdeva-burger.netlify.app
+
+
 
 ## Let's Connect!
 
