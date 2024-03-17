@@ -1,8 +1,21 @@
-# Devadharshini Nagarajan
+# Hi!👋 I'm Deva! 
 
-[LinkedIn](https://www.linkedin.com/in/devadharshini-nagarajan) | [GitHub](https://github.com/devadharshini797)
+## Software Engineer | Full Stack Developer
 
-📞 647-928-2107 | 🌍 Toronto, ON | ✉ devadharshini797@gmail.com
+Welcome to my GitHub profile! I'm Deva, a passionate Software Engineer and Full Stack Developer based in Toronto, Canada. I specialize in front-end development, with a primary focus on crafting clean user interfaces and robust, high-performance backend services.
+
+---
+
+## About Me
+
+- 🌍 Based in Toronto, Canada.
+- ☕️ Coffee addict
+- 🖥️ Explore my portfolio at coming soon!.
+- 📚 Currently learning Next.js and GraphQL.
+- 🧠 Constantly learning and exploring new technologies to advance my skills.
+- 🤝 Open to collaborating on open-source projects and innovative applications.
+- ⚡ Check my repositories to gain insights into my journey and tech stack.
+- 💬 Ask me about JavaScript, TypeScript, React ecosystem, and building scalable web applications.
 
 ---
 
