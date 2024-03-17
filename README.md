@@ -14,14 +14,7 @@ Welcome to my GitHub profile! I'm Deva, a passionate Software Engineer and Full 
 - 📚 Currently learning Next.js and GraphQL.
 - 🧠 Constantly learning and exploring new technologies to advance my skills.
 - 🤝 Open to collaborating on open-source projects and innovative applications.
-- ⚡ Check my repositories to gain insights into my journey and tech stack.
-- 💬 Ask me about JavaScript, TypeScript, React ecosystem, and building scalable web applications.
-
----
-
-## Summary
-
-Highly skilled and driven software developer with 3+ years of expertise in frontend technologies, fueled by a passion to evolve into a full-stack developer. Excel at cultivating collaborative work environments, adeptly devising innovative solutions, and prioritizing customer satisfaction. Thrive in fast-growing startup settings, showcasing adaptability and a proactive approach to continuous learning.
+- 🌱 Committed to personal growth and continuous improvement as a developer.
 
 ---
 
@@ -57,13 +50,19 @@ Highly skilled and driven software developer with 3+ years of expertise in front
 
 ---
 
-## Education
+## Goals
 
-### Master of Science in Information Systems
-Northeastern University, Toronto | Sept 2022 - April 2024
+As a software engineer, I am constantly striving for growth and improvement. Here are some of my current goals:
 
-### Bachelor of Engineering in Industrial Engineering
-College of Engineering, Anna University, India | April 2015 - April 2019
+- **Frontend Performance and Server-Side Rendering (SSR)**: 🚀🌐 I aim to deepen my understanding of frontend performance optimization techniques, including server-side rendering (SSR), to create faster, more responsive web applications. By mastering SSR techniques, I seek to improve the initial load time and SEO performance of web applications, resulting in enhanced user experiences and search engine visibility.
+
+- **Backend Expertise**: 💻 I am eager to expand my experience in backend development, particularly in areas such as API design, microservices architecture, and server-side performance optimization.
+
+- **Database Proficiency**: 📊 I am committed to enhancing my skills in database management and optimization, with a focus on SQL and NoSQL databases, data modeling, and query optimization.
+
+- **Deployment Strategies**: ☁️ I am keen to learn more about modern deployment strategies and tools, including containerization, orchestration, continuous integration/continuous deployment (CI/CD), and serverless computing. Specifically, I aim to gain hands-on experience with cloud platforms such as AWS (Amazon Web Services) and Azure, leveraging their services for scalable and reliable application deployment.
+
+By setting and pursuing these goals, I aim to become a more well-rounded and proficient software engineer, capable of delivering high-quality solutions that meet the needs of both users and stakeholders.
 
 ---
 
