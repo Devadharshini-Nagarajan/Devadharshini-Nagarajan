@@ -67,6 +67,8 @@ By setting and pursuing these goals, I aim to become a more well-rounded and pro
 
 ---
 ## Projects!
+These projects were created for learning and fun, exploring various aspects of web development and honing my skills along the way
+
 - Covid 19 Tracker - https://webofdeva-covid19tracker.netlify.app
 - Credit Card - https://webofdeva-creditcard.netlify.app
 - Amazon Clone - https://webofdeva-amazon.netlify.app
