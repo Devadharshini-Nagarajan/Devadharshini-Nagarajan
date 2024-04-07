@@ -46,7 +46,7 @@ Welcome to my GitHub profile! With specialized expertise in crafting dynamic and
 <img src="https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&labelColor=17202C" height="25">
 
 ### Cloud
-<img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&labelColor=232F3E" height="25"> <img src="https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white&labelColor=4285F4" height="25"> <img src="https://img.shields.io/badge/-NGINX-009639?logo=nginx&logoColor=white&labelColor=009639" height="25">
+[![GitHub CI/CD](https://img.shields.io/badge/GitHub-CI%2FCD-2088FF?logo=github)](https://github.com/your-username/your-repository-name/actions) <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&labelColor=232F3E" height="25"> <img src="https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white&labelColor=4285F4" height="25"> <img src="https://img.shields.io/badge/-NGINX-009639?logo=nginx&logoColor=white&labelColor=009639" height="25">
 
 ### Tools
 
