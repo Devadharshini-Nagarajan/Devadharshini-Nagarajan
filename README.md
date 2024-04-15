@@ -12,7 +12,7 @@ Welcome to my GitHub profile! With specialized expertise in crafting dynamic and
 - 🌍 Based in Toronto, Canada.
 - ☕️ Coffee addict
 - 🖥️ Explore my portfolio at coming soon!.
-- 📚 Currently learning Next.js and GraphQL.
+- 📚 Currently learning Next.js and DSA.
 - 🧠 Constantly learning and exploring new technologies to advance my skills.
 - 🤝 Open to collaborating on open-source projects and innovative applications.
 - 🌱 Committed to personal growth and continuous improvement as a developer.
