@@ -26,7 +26,9 @@ Welcome to my GitHub profile! With specialized expertise in crafting dynamic and
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white" height="25" /> <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" height="25" />
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="25" />
 <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white" height="25" />
 <img src="https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white" height="25" />
+
 
 
 ### Frontend
@@ -35,7 +37,7 @@ Welcome to my GitHub profile! With specialized expertise in crafting dynamic and
 
 ### Backend
 
-<img src="https://img.shields.io/badge/-Node.js-339933?logo=node-dot-js&logoColor=white&labelColor=339933" height="25"> <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&labelColor=000000" height="25"> <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&labelColor=6DB33F" height="25"> <img src="https://img.shields.io/badge/-Serverless-FD5750?logo=serverless&logoColor=white&labelColor=FD5750" height="25">
+<img src="https://img.shields.io/badge/-Node.js-339933?logo=node-dot-js&logoColor=white&labelColor=339933" height="25"> <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&labelColor=000000" height="25"> <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&labelColor=6DB33F" height="25"> <img src="https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&labelColor=512BD4" height="25" /> <img src="https://img.shields.io/badge/-Serverless-FD5750?logo=serverless&logoColor=white&labelColor=FD5750" height="25">
 
 ### Database
 
