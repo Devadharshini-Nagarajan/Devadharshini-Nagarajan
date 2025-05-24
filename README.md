@@ -1,23 +1,23 @@
 # Hi! 👋 I'm Deva! 
 
-## Software Engineer | Full Stack Developer
+## Software Engineer | Frontend
 
-Welcome to my GitHub profile! With specialized expertise in crafting dynamic and intuitive user interfaces, coupled with proficiency as a full stack developer, I am committed to delivering impactful and user-centric software solutions.
+Welcome to my GitHub profile! With specialized expertise in crafting dynamic and intuitive user interfaces, I am committed to delivering impactful and user-centric software solutions.
 
-<!--  I'm Deva, a passionate Software Engineer and Full Stack Developer based in Toronto, Canada. -->
+<!--  I'm Deva, a passionate Software Engineer | Frontend based in Toronto, Canada. -->
 ---
 
 ## About Me
 
 - 🌍 Based in Toronto, Canada.
 - ☕️ Coffee addict
-- 🖥️ Explore my portfolio at coming soon!.
+<!-- - 🖥️ Explore my portfolio at coming soon!.  -->
 - 🧠 Constantly learning and exploring new technologies to advance my skills.
 - 🤝 Open to collaborating on open-source projects and innovative applications.
 - 🌱 Committed to personal growth and continuous improvement as a developer.
 
 
-<!-- - 📚 Currently learning Next.js and DSA. -->
+<!-- - 📚 Currently learning app performance and DSA. -->
 ---
 
 ## Technical Skills
@@ -58,7 +58,7 @@ Welcome to my GitHub profile! With specialized expertise in crafting dynamic and
 
 ---
 
-## Goals
+<!-- ## Goals
 
 As a software engineer, I am constantly striving for growth and improvement. Here are some of my current goals:
 
@@ -71,8 +71,8 @@ As a software engineer, I am constantly striving for growth and improvement. Her
 - **Deployment Strategies**: ☁️ I am keen to learn more about modern deployment strategies and tools, including containerization, orchestration, continuous integration/continuous deployment (CI/CD), and serverless computing. Specifically, I aim to gain hands-on experience with cloud platforms such as AWS (Amazon Web Services) and Azure, leveraging their services for scalable and reliable application deployment.
 
 By setting and pursuing these goals, I aim to become a more well-rounded and proficient software engineer, capable of delivering high-quality solutions that meet the needs of both users and stakeholders.
-
 ---
+-->
 ## Projects!
 These projects were created for learning and fun, exploring various aspects of web development and honing my skills along the way
 
