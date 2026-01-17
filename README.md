@@ -1,23 +1,16 @@
-# Hi! 👋 I'm Deva! 
+# Hi 👋 I’m Deva  
 
-## Software Engineer | Frontend
+Experienced Software Engineer with a strong frontend focus and hands-on work in backend, testing, and CI/CD workflows.
 
-Welcome to my GitHub profile! With specialized expertise in crafting dynamic and intuitive user interfaces, I am committed to delivering impactful and user-centric software solutions.
-
-<!--  I'm Deva, a passionate Software Engineer | Frontend based in Toronto, Canada. -->
 ---
 
 ## About Me
 
-- 🌍 Based in Toronto, Canada.
-- ☕️ Coffee addict
-<!-- - 🖥️ Explore my portfolio at coming soon!.  -->
-- 🧠 Constantly learning and exploring new technologies to advance my skills.
-- 🤝 Open to collaborating on open-source projects and innovative applications.
-- 🌱 Committed to personal growth and continuous improvement as a developer.
+- 📍 Based in Toronto, Canada    
+- 🧠 Strong interest in frontend architecture, state management, and performance optimization  
+- ☕ Coffee-driven problem solver  
+- 🌱 Continuously learning through hands-on projects and deep technical exploration
 
-
-<!-- - 📚 Currently learning app performance and DSA. -->
 ---
 
 ## Technical Skills
@@ -74,6 +67,21 @@ By setting and pursuing these goals, I aim to become a more well-rounded and pro
 ---
 -->
 ## Projects!
+
+### 🚀 Recent & Active Projects
+FinBuddy (Active): A full-stack project using Angular for frontend and a NestJS backend with Postgres DB. 
+  - FE: https://github.com/Devadharshini-Nagarajan/angular-workspace/tree/project/finbuddy
+  - BE: https://github.com/Devadharshini-Nagarajan/FinBuddy-NestJS
+
+Aurora Blogs: Built using JSP, Servlets, Javascript
+  - https://github.com/Devadharshini-Nagarajan/Aurora-Blogs-JSP
+
+Data Aggregation and Secure Interconnection System: Built using Springboot, DiscoveryServer, ReactJS
+  - FE: https://github.com/Devadharshini-Nagarajan/webdev-mainapp
+  - BE: https://github.com/Devadharshini-Nagarajan/webdev-springboot-all
+
+
+### 🧪 Learning & Experimental Projects
 These projects were created for learning and fun, exploring various aspects of web development and honing my skills along the way
 
 - Covid 19 Tracker - https://webofdeva-covid19tracker.netlify.app
